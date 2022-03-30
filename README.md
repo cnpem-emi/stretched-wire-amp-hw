@@ -4,4 +4,4 @@ Set of lateral panels and mounting base for the shielding enclosure from low-noi
 
 These panels were drawn as PCB's in Altium so they could be easily fabricated in PCB milling systems.
 
-<img src="https://user-images.githubusercontent.com/16702368/160831606-095aebac-2215-4794-84be-b18688cf904f.jpg" width = 50%>
+<img src="https://user-images.githubusercontent.com/16702368/160831606-095aebac-2215-4794-84be-b18688cf904f.jpg" width = 75%>
